@@ -1,5 +1,5 @@
-import:
-  - ~/.config/alacritty/themes/solarized-dark.yml
+# import:
+#   - ~/.config/alacritty/themes/solarized-dark.yml
 
 font:
   bold:
